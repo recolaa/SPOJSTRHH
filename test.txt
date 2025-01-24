@@ -1,0 +1,11 @@
+10
+ab
+abcd
+abcdef
+abcdefgh
+qwertyui
+zxcvbnm,./
+HelloWorld
+ChatGPTisCool!
+ProgrammingIsFun
+EdgeCasesAreImportan
